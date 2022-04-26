@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>085.jpg</filename>
+	<path>/my-project-name/085.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1608</xmin>
+			<ymin>0</ymin>
+			<xmax>2229</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>2101</xmin>
+			<ymin>0</ymin>
+			<xmax>2822</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>
