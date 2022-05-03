@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>A6.jpg</filename>
+	<path>/my-project-name/A6.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>5429</width>
+		<height>3458</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>2759</ymin>
+			<xmax>2218</xmax>
+			<ymax>3458</ymax>
+		</bndbox>
+	</object>
+</annotation>
